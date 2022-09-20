@@ -184,9 +184,3 @@ def function5(places_affected):
 
 
 print(function5(places_affected))
-
-
-
-
-
-
