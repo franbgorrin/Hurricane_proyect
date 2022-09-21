@@ -71,10 +71,6 @@ conversion = {"M": 1000000,
 
 # In[2]:
 
-
-jm = []
-
-
 def upd_damage(damages):
     conversion = {"M": 1000000,
                   "B": 1000000000}
@@ -91,9 +87,6 @@ def upd_damage(damages):
 
 updated_damages = upd_damage(damages)
 print(updated_damages)
-
-
-# test function by updating damages
 
 
 # In[3]:
